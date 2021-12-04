@@ -1,4 +1,4 @@
-# Welcome to GitHub Desktop!
+İnheritance
 
 inheritance code practice(Java inheritance çalışması)
 
